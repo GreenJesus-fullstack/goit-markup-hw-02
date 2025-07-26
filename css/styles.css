@@ -14,7 +14,7 @@ font-family: "Raleway", sans-serif ;}
 
 ul {list-style-type: none;}
 
-a{text-decoration: none;
+a {text-decoration: none;
 color: currentColor}
 
 .web-studio-logo {
@@ -59,7 +59,7 @@ color: #fff;
 letter-spacing: 0.02em;
 background-color: #2E2F42;}
 
-.main-page .main-page-header {
+.main-header {
 font-size: 56px;
 font-weight: 700;
 line-height: 1.07;
