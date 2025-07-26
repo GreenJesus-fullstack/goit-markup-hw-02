@@ -1,10 +1,9 @@
 /* BODY*/
-
 body {
 font-family: "Roboto", sans-serif;
-line-height: 1.5;
 color:#434455;
-background-color:#fff;
+line-height: 1.5;
+background-color:#ffffff;
 }
 
 /*HEADER*/
@@ -135,29 +134,31 @@ letter-spacing: 0.02em;}
 .our-portfolio {color: #434455;
 font-size: 36px;
 line-height: 1.11;}
+
 .our-portfolio .section-header {
 font-size: 36px;
-font-weight: 500;line-height: 1.11;
+font-weight: 500;
+line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
 text-transform: capitalize;
 color: #2E2F42;}
 
-.our-portfolio .portfolio-tools {font-size: 20px;
+.our-portfolio .portfolio-tools {
+font-size: 20px;
 font-weight: 500;
 line-height: 1.2;
 text-transform: capitalize;
 letter-spacing: 0.02em;
 color: #2E2F42;}
 
-.our-portfolio .portfolio-item {font-size: 16px;
-line-height: 1.5;
+.our-portfolio .portfolio-parapraph {
+font-size: 16px;
 letter-spacing: 0.02em;
+line-height: 1.5;
 color: #434455;}
-.out-portfolio .portfolio-paragraph {font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color:#434455;}
+
+
 
     /*FOOTER*/
 .page-footer {color: #F4F4FD;
