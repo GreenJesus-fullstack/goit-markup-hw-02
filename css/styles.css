@@ -1,0 +1,160 @@
+/* BODY*/
+
+body {font-family: "Roboto", sans-serif;
+background-color: #fff;
+line-height: 1.5;
+color: #2E2F42;}
+
+/*HEADER*/
+
+h1, h2, h3 {font-family: "Raleway", sans-serif ;}
+ul {list-style-type: none;}
+a{text-decoration: none;
+color: currentColor}
+
+.web-studio-logo {
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    
+}
+.web-studio-logo span {color: #2e2f42;}
+
+
+.info-list {
+    font-weight: 500;
+letter-spacing: 0.02em;}
+.info-list:hover, .info-list:focus {color:#404BBF}
+
+address {font-style: normal}
+
+.contacts-list .contacts-item {font-weight: 400;
+    letter-spacing: 0.02em;}
+
+.contacts-item:hover,
+.contacts-item:focus {
+    color: #404BBF;}
+
+/*MAIN*/
+/*solutions*/
+
+.main-page {
+text-align: center;
+color: #fff;
+    letter-spacing: 0.02em;
+    background-color: #2E2F42;}
+
+.main-page .main-page-header {
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    color: #fff;}
+
+.main-page .service-button {
+    line-height: 1.5;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    color: #fff;
+    background-color: #4D5AE5;}
+
+ .main-page .service-button:hover,
+ .main-page .service-button:focus {
+   background-color: #404BBF;
+    cursor: pointer;
+ }
+
+ /*OUT BENEFITS*/
+
+ .main-benefits .section-header {
+font-size: 36px;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: center;
+text-transform: capitalize;
+color: #2E2F42;}
+
+.main-benefits .benefits-header {font-size: 20px;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2E2F42;}
+
+.main-benefits .benefits-paragraph {
+color: #434455;
+letter-spacing: 0.02em;}
+
+/*OUR TEAM*/
+
+.our-team {
+text-align: center;
+background-color: #F4F4FD;
+}
+.our-team .section-header {
+font-size: 36px;
+font-weight: 500;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-align: center;
+text-transform: capitalize;
+color: #2E2F42;
+}
+.our-team li {background-color: #fff;}
+
+.out-team .worker-name {font-size: 20px;
+font-weight: 500;
+line-height: 1.2;
+text-align: center;
+text-transform: capitalize;
+letter-spacing: 0.02em;
+color: #2E2F42;}
+
+
+.our-team .worker-profile {color: #434455;
+font-size: 16px;
+letter-spacing: 0.02em;}
+ 
+/*OUT PORTFOLIO*/
+ 
+.our-portfolio {color: #434455;
+font-size: 36px;
+line-height: 1.11;}
+.our-portfolio .section-header {font-size: 36px;
+    font-weight: 500;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+    color: #2E2F42;}
+
+.our-portfolio .portfolio-tools {font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    text-transform: capitalize;
+    letter-spacing: 0.02em;
+    color: #2E2F42;}
+
+.out-portfolio .portfolio-item {font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;}
+
+    /*FOOTER*/
+.page-footer {color: #F4F4FD;
+    background-color: #2E2F42;}
+.page-footer .web-studio-logo{font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;}
+.page-footer .web-studio-logo .second-logo {
+    color: #f4f4fd}
+.page-footer .footer-paragraph {
+    letter-spacing: 0.02em;}
