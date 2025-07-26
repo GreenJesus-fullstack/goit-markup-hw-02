@@ -41,7 +41,9 @@ color:#404BBF}
 address {
 font-style: normal}
 
-.contacts-list .contacts-item {font-weight: 400;
+.contacts-list .contacts-item {
+color:#434455;
+font-weight: 400;
 letter-spacing: 0.02em;}
 
 .contacts-item:hover,
